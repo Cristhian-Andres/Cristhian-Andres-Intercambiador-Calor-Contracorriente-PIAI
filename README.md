@@ -1,4 +1,5 @@
 # Intercambiador de Calor a Contracorriente
+
 El objetivo del presente informe es desarrollar un simulador con interfaz de usuario con Matlab App Designer para un intercambiador de calor a contracorriente. En estos sistemas, un fuido caliente transfere energía térmica a un uido frio que circula en dirección opuesta. La transferencia de calor se da a través de una tubería metálica, razón por la cual los fuidos no entran en contacto. Mas información sobre el proyecto se encuentra en la carpeta documentos. 
 
 ## Imagen 1: parámetros iniciales. 
@@ -12,3 +13,8 @@ El objetivo del presente informe es desarrollar un simulador con interfaz de usu
 ## Imagen 3: simulación. 
 
 <img width="558" alt="matlab3" src="https://user-images.githubusercontent.com/94796234/192538960-6300e5e7-1fcc-43da-affe-0ec2c95774b9.PNG">
+
+### Menciones
+
+La aplicación se desarrollo en el curso Modelado y Simulación de sistemas a cargo del docente Carlos Felipe Rengifo Rodas, programa Ingeniería en Automática Industrial
+de la Facultad Ingeniería Electrónica y Telecomunicaciones - Universidad del Cauca
